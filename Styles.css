@@ -1,7 +1,7 @@
 /* styles.css */
 
 /* Color Variables */
-:root {
+: root {
   --maru: #80002A;
   --black: #000000;
   --white: #ffffff;
@@ -156,4 +156,5 @@ h1, h2, h3 {
   font-weight: bold;
   color: var(--black);
   margin: 10px 0
+
 
